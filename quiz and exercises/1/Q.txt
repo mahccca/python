@@ -1,0 +1,6 @@
+1-python --version
+
+2-"Add Python to PATH"
+
+3-"Hello, World!"
+
